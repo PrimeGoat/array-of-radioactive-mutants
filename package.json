@@ -1,15 +1,23 @@
 {
-  "name": "testing-template-repo",
+  "name": "array-of-radioactive-mutants",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "### Introduction",
+  "main": "main.js",
   "scripts": {
     "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeGoat/array-of-radioactive-mutants.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^24.9.0"
+  "bugs": {
+    "url": "https://github.com/PrimeGoat/array-of-radioactive-mutants/issues"
+  },
+  "homepage": "https://github.com/PrimeGoat/array-of-radioactive-mutants#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
   }
 }
